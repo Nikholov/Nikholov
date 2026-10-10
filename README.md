@@ -34,10 +34,10 @@ Esta herramienta de navaja suiza en el Carding dispone de una variedad de opcion
  - pkg install python3 --upgrade
 
 // Clonar este repositorio:
- - git clone https://github.com/Lanniscaf/cctools.git
+ - git clone https://github.com/Nikholov/Nikholov
 
 // Ingresar al proyecto
- - cd cctools/
+ - cd Nikholov/
 
 // Instalar las dependencias necesarias:
  - pip install -r requirements.txt
